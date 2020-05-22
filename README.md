@@ -10,12 +10,7 @@ providing any benefits with mental health in mind and also treat mental health e
 them time to recover if needed. There is even concern about if individuals are being treated for their
 mental health issues.
 
-The mental health institution has hired you to investigate the above issues using some data they have
-collected (see details of attributes below). You are required to explore the data and use appropriate
-graphs/plots and narratives (via text/markdown code) for each plot in order to describe your findings
-and tell your story based on the data.
-
-The dataset contains the following attributes:
+The dataset was obtained as part of an assignment and contains the following attributes:
   1. Timestamp
   2. Age
   3. Gender
