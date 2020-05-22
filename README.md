@@ -39,4 +39,5 @@ The dataset was obtained as part of an assignment and contains the following att
   26. obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
   27. comments: Any additional notes or comments
 
+
 See the jupyter notebook for data exploration and visualization using the seaborn library.
