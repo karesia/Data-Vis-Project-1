@@ -10,7 +10,7 @@ providing any benefits with mental health in mind and also treat mental health e
 them time to recover if needed. There is even concern about if individuals are being treated for their
 mental health issues.
 
-The dataset was obtained as part of an assignment and contains the following attributes:
+The dataset was obtained as part of an assignment for Big Data Analytics course and contains the following attributes:
   1. Timestamp
   2. Age
   3. Gender
