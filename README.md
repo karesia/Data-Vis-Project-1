@@ -1,5 +1,5 @@
 # Data Visualization Projects
-Data visualization using seaborn (jupyter)
+Data visualization using seaborn.
 
 ### Project 1 - Tech Companies and Mental Health
 A mental health institution is investigating mental health issues in tech companies. There is concern
